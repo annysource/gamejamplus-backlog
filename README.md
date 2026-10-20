@@ -1,8 +1,10 @@
 # GameJamPlus Backlog
 
-Transforme avisos da GameJamPlus em uma lista curta de tarefas, com prioridade, responsável, prazo e origem da informação.
+Transforme avisos da GameJamPlus em uma lista curta de tarefas, com prioridade, responsável, prazo e origem da informação.***
 
 Serve para organizadores de sedes e equipes participantes.
+
+------ disclaimer: NAO SUBSTITUI VERIFICAÇÃO HUMANA PRA DOUBLE CHECK DAS INFORMAÇÕES!
 
 ## 1. Instale
 
